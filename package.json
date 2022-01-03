@@ -1,0 +1,19 @@
+{
+  "name": "reversi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKMKsGit/Reversi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKMKsGit/Reversi/issues"
+  },
+  "homepage": "https://github.com/MKMKsGit/Reversi#readme"
+}
